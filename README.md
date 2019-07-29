@@ -8,10 +8,11 @@ this is example to show different parts of the git repository and various comman
 
 ## Purpose
 
-Sample website with plenty of files for demos
+ Sample website with plenty of files for demos
 
 ##Deployment
 
+This is simple projeect
 ## How to contribute
 
 
