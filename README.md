@@ -10,7 +10,7 @@ this is example to show different parts of the git repository and various comman
 
  Sample website with plenty of files for demos
 
-##Deployment
+## Deployment
 
 This is simple projeect
 ## How to contribute
